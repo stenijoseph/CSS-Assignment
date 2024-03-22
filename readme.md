@@ -2,4 +2,5 @@
  ## technologies used
  ## HTML
  ## CSS
- ![screenshot](,)
+ ![screenshot](./Screenshot1.png)
+ ![screenshot](./Screenshot2.png)
